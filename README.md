@@ -3,7 +3,7 @@ Projekt név: kódoló program
 Hallgató neve: Perecz Tamás (OLU4P1)
 
 Leírás:
-Ez a program külső txt fájlból betöltött vagy begépelt szöveget jelszóval kódolja, amit utána kiír, ezt elmenthetünk egy txt fájlba.
+Ez a program külső txt fájlból betöltött vagy begépelt szöveget jelszóval kódolja, ezt kiírja illetve elmenthetjük egy txt fájlba.
 
 
 Fügvények:
